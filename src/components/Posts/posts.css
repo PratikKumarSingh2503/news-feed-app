@@ -1,0 +1,37 @@
+.posts{
+    flex: 9;
+    margin-top: 60px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgb(0, 9, 27);
+}
+
+.post{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.postImg{
+    width: 400px;
+    height: 300px;
+    margin: 20px 60px;
+    border-radius: 20px;
+}
+.post p{
+    margin: 10px;
+}
+.postbut{
+    text-align: center;
+    padding: 3px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.postbut :hover{
+    text-align: center;
+    background-color: yellowgreen;
+    border-radius: 10px;
+}

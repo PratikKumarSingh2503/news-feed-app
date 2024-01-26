@@ -1,0 +1,27 @@
+.sport{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sportPost{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.sportImg{
+    width: 380px;
+    height: 300px;
+    margin: 20px 60px;
+    border-radius: 20px;
+}
+.sportPost p{
+    margin-left: 50px;
+    width: 380px;
+}
+.sportbut{
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: yellow;
+}

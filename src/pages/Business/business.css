@@ -1,0 +1,28 @@
+.business{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.businessPost{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.businessImg{
+    width: 380px;
+    height: 300px;
+    margin: 20px 60px;
+    border-radius: 20px;
+}
+.businessPost p{
+    margin-left: 50px;
+    width: 380px;
+}
+.businessbut{
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: yellow;
+}
